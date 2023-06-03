@@ -5,6 +5,6 @@ Projeto de cardápio criado com spring-boot e react.
 - Spring Boot
 - React
 
-#Descrição:
+# Descrição:
 App desenvolvido para visualizar cardápio a nível didático.
 
